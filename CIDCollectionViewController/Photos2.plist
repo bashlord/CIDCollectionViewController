@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   Photos2.plist
+   CIDCollectionViewController
+
+   Created by John Jin Woong Kim on 2/14/17.
+   Copyright (c) 2017 John Jin Woong Kim. All rights reserved.
+-->
+<plist version="1.0">
+<array>
+    <dict>
+        <key>Photo</key>
+        <string>Oprah-You-Get-A</string>
+    </dict>
+    
+    <dict>
+        <key>Photo</key>
+        <string>Third-World-Skeptical-Kid</string>
+    </dict>
+    
+    <dict>
+        <key>Photo</key>
+        <string>X-All-The-Y</string>
+    </dict>
+    
+    <dict>
+        <key>Photo</key>
+        <string>Matrix-Morpheus</string>
+    </dict>
+    
+    <dict>
+        <key>Photo</key>
+        <string>Yall-Got-Any-More-Of</string>
+    </dict>
+    
+    <dict>
+        <key>Photo</key>
+        <string>Picard-Wtf</string>
+    </dict>
+    
+    <dict>
+        <key>Photo</key>
+        <string>Confession-Bear</string>
+    </dict>
+    
+    <dict>
+        <key>Photo</key>
+        <string>Face-You-Make-Robert-Downey-Jr</string>
+    </dict>
+    
+    <dict>
+        <key>Photo</key>
+        <string>Be-Like-Bill</string>
+    </dict>
+    
+    <dict>
+        <key>Photo</key>
+        <string>The-Rock-Driving</string>
+    </dict>
+</array>
+</plist>
