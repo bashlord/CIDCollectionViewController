@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "58DABC0D621B34785AE54611EB05064095A9955E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "338DD12E3BC5BD1322E05A5540198AF9B30707C7" : 9223372036854775807,
+    "58DABC0D621B34785AE54611EB05064095A9955E" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "673E8DC1-408A-407F-860F-77F7815A635E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "338DD12E3BC5BD1322E05A5540198AF9B30707C7" : "",
+    "58DABC0D621B34785AE54611EB05064095A9955E" : "CIDCollectionViewController\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CIDCollectionViewController",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CIDCollectionViewController.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bashlord\/Drememe.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "338DD12E3BC5BD1322E05A5540198AF9B30707C7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bashlord\/CIDCollectionViewController.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "58DABC0D621B34785AE54611EB05064095A9955E"
+    }
+  ]
+}
